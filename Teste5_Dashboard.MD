@@ -1,3 +1,3 @@
-## Link para o Dashboard
+## Link para o [Dashboard](https://metabase-treinamentos.dadosfera.ai/dashboard/35-dashboard-rh-ibm-dadosfera)
 
-[title](https://metabase-treinamentos.dadosfera.ai/dashboard/35-dashboard-rh-ibm-dadosfera)
+
