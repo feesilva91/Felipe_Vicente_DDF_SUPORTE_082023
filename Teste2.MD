@@ -10,7 +10,8 @@ A implementação de uma nova plataforma de gerenciamento de diretório em nuvem
 
 **SIM**, essa mudança pode ter ocasionado o erro que o usuário "João" mencionou.*
 
--Outro ponto que eu gosto muito é realizar testes extensivos para garantir que a nova plataforma funcione conforme o esperado. Testanto por exemplo na base DEv, depois na base Teste e opr último base PRD.
+-Outro ponto que eu gosto muito é realizar testes extensivos para garantir que a nova plataforma funcione conforme o esperado. 
+Testando por exemplo na base DEv, depois na base Teste e opr último base PRD.
 Estabelecendo esse sistemas de monitoramento para identificar problemas em tempo real.
 - Comunicação é chave do sucesso e da vida
 
